@@ -17,7 +17,7 @@ By the end of today's class, you will be able to:
 
 ### Slideshow
 
-- The lesson slides are available on Google Drive here: [2.2 Slides](https://docs.google.com/presentation/d/1IZdGdUDHaVp8Z6a5u7aE8vBa2hNNgRE5W6TDsINZamM/edit#slide=id.g480f0dd0a7_0_1803).
+- The lesson slides are available on Google Drive here: [2.2 Slides](https://docs.google.com/presentation/d/1PFeQwzplHqOodcY_YmWVsmg-Q78SjN4X4dsLf-GoUNE/edit#slide=id.g480f0dd0a7_0_1803).
 
 
 ---
