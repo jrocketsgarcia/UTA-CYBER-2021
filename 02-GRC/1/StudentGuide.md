@@ -15,7 +15,7 @@ By the end of this lesson, you will be able to:
 
 #### Slideshow
 
-The lesson slides are available on Google Drive here: [2.1 Slides](https://docs.google.com/presentation/d/1un2bhoJCRwDEO-nYcOjLd7_0OxutWcyS5zr4UNHJLz8/edit#slide=id.g480f0dd0a7_0_1803)
+The lesson slides are available on Google Drive here: [2.1 Slides](https://docs.google.com/presentation/d/1alICzTFw-ZXxhQ7Mm8rJ7-cTI6a32erW_6F7oEIJT38/edit#slide=id.g480f0dd0a7_0_1803)
 
 ---
 
