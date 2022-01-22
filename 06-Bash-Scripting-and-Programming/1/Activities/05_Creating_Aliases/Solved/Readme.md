@@ -83,7 +83,7 @@ Take a moment to see what's happening to the `~/.bashrc` file.
 Create aliases for the following: 
 
 - `nano ~/.bashrc`
-- `mkdir ~/research && cp /var/logs/* /etc/passwd /etc/shadow /etc/hosts ~/research`
+- `mkdir ~/research && cp /var/log/* /etc/passwd /etc/shadow /etc/hosts ~/research`
 
 Create an alias in your `~/.bashrc` file for `nano ~/.bashrc`.
 
@@ -123,9 +123,9 @@ Scroll to the bottom where the aliases are being added.
 
 Complete the same steps for the following: 
 
-1. `mkdir ~/research && cp /var/logs/* /etc/passwd /etc/shadow /etc/hosts ~/research`
+1. `mkdir ~/research && cp /var/log/* /etc/passwd /etc/shadow /etc/hosts ~/research`
 
-    - **Solution**: `echo "alias logs='mkdir ~/research && cp /var/logs/* /etc/passwd /etc/shadow /etc/hosts ~/research'" >> ~/.bashrc`
+    - **Solution**: `echo "alias logs='mkdir ~/research && cp /var/log/* /etc/passwd /etc/shadow /etc/hosts ~/research'" >> ~/.bashrc`
 
     
 The `Custom Aliases` section should now look like:
