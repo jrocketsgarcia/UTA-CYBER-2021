@@ -137,7 +137,7 @@ alias docs='cd ~/Documents'
 alias dwn='cd ~/Downloads'
 alias etc='cd /etc'
 alias rc='nano ~/.bashrc'
-alias logs='mkdir ~/research && cp /var/logs/* /etc/passwd /etc/shadow /etc/hosts ~/research'
+alias logs='mkdir ~/research && cp /var/log/* /etc/passwd /etc/shadow /etc/hosts ~/research'
 ```
 
 We can either keep the output file redirection `>> ~/research/users.txt` or we can leave it out. If we do leave it out, we can still use redirection when we run our custom alias.
