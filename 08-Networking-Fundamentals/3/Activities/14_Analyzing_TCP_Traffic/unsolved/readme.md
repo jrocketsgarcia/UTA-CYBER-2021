@@ -10,7 +10,7 @@ In this activity, you will continue to play the role of a security analyst at Ac
 
 1.  Open the packet capture provided and filter out for TCP activity.
 
-     - [New Employee TCP Packet Capture](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-CYBER-PT-12-2021-U-LOL/blob/master/08-Networking-Fundamentals/3/Resources/packetcapTCPclass.pcapng)
+     - [Analyzing TCP Traffic](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-CYBER-PT-12-2021-U-LOL/blob/master/08-Networking-Fundamentals/3/Resources/packetcapTCPclass.pcapng)
    
 2. Find all the TCP handshakes for establishing a connection.
    
