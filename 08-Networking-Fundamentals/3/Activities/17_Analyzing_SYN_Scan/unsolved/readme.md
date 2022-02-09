@@ -8,6 +8,8 @@ In this activity, you will continue to play the role of a security analyst at Ac
 
 ### Instructions
 1. Open the packet capture provided to you.
+
+-[Analyzing a SYN Scan](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-CYBER-PT-12-2021-U-LOL/blob/master/08-Networking-Fundamentals/3/Resources/synscan.pcapng)
    
 2. Based on the host responses, determine which ports are open, closed, or filtered.
    
