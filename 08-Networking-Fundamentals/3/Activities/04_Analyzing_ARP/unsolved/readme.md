@@ -5,11 +5,11 @@ In this activity, you will play the role of a security analyst at Acme Corp.
 - CompuCom, a software company, has hired Acme Corp to do a security assessment of their network.
 
 - Your task is to analyze ARP activity from a CompuCom packet capture to determine if any vulnerabilities exist
-- [Analyzing ARP Packet Capture](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-CYBER-PT-12-2021-U-LOL/blob/master/08-Networking-Fundamentals/3/Resources/arp_packets.pcap)
 
 ### Instructions
 
 1. Open the packet capture provided to you and filter out for ARP activity.
+
     -[Analyzing ARP Packet Capture](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-CYBER-PT-12-2021-U-LOL/blob/master/08-Networking-Fundamentals/3/Resources/arp_packets.pcap)
 
 2. Document the physical addresses found for each of the following IP addresses:
