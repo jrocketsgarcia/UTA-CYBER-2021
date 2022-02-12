@@ -13,6 +13,7 @@ You have just been hired by RockStar Corporation as a network security analyst.
 RockStar Corp has provided you with:
 
 - A list of their network assets: [Rock Star Server List](resources/Rockstarserverlist.xlsx)
+- Google Drive share for the list - [Rock Star Server List](https://drive.google.com/drive/folders/1w0vWBP3GpZyU9LtU7B40ZPbVOKlzIiO5)
 - Instructions to scan their network.
 
 ### Your Goal
