@@ -6,6 +6,7 @@ In this activity, you will continue to play the role of a security analyst at Ac
 
 - Your task is to analyze the network diagram and provide the shortest path between the servers provided.
 
+- https://drive.google.com/drive/folders/12QFepJ9zQGlC0LKPLS7ZpSmttrdCgkQi
 ### Instructions
    
 Open the network diagrams provided.
