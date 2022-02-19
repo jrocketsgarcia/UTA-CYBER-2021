@@ -49,7 +49,7 @@ Submit your results and findings in a document.
 
 - The Resistance's network team was able to build and deploy a new DNS server and mail server.
 
-- The new primary mail server is `asltx.l.google.com` and the secondary should be `asltx.2.google.com`.
+- The new primary mail server is `asltx.1.google.com` and the secondary should be `asltx.2.google.com`.
 
 - The Resistance (starwars.com) is able to send emails but unable to receive any.
 
