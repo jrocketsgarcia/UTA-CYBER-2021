@@ -112,7 +112,7 @@ https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/
 
 This unit's homework assignment can be viewed here:
 
-- [Unit 13 Homework File](../../2-Homework/13-Github-Fundamentals/Unsolved/README.md)
+- [Unit 13 Homework File](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-CYBER-PT-12-2021-U-LOL/blob/master/13-Elk-Stack-Project/Homework/Unsolved/README.md)
 
 ### Looking Forward 
 
