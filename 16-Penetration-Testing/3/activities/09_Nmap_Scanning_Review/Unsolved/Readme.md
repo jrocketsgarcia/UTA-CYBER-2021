@@ -6,9 +6,6 @@ In this activity, you'll use the Nmap documentation to learn useful new flags. O
 
 - For this activity, you will need to answer the questions in a new document on your local computer. 
 
-Send students the following file: 
-
-- [Activity File: Nmap and Scanning Review](Activities/)
 
 #### Instructions:
 
